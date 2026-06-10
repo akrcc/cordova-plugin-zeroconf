@@ -1,4 +1,4 @@
-#import <sys/unistd.h>
+#import <Foundation/Foundation.h>
 
 @interface Hostname : NSObject {}
 
